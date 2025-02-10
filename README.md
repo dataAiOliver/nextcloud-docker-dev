@@ -1,3 +1,9 @@
+# General
+
+- Infos setup: [https://cloud.nextcloud.com/s/iyNGp8ryWxc7Efa?dir=/1%20Setting%20up%20a%20development%20environment/Tutorial%20for%20Mac](https://cloud.nextcloud.com/s/iyNGp8ryWxc7Efa?dir=/1%20Setting%20up%20a%20development%20environment/Tutorial%20for%20Mac)
+
+- app folder: workspace/server/apps-extra
+
 # Nextcloud development environment on Docker Compose
 
 [Documentation](https://juliusknorr.github.io/nextcloud-docker-dev/) | [Nextcloud Developer Portal](https://nextcloud.com/developer/)
